@@ -5,6 +5,7 @@ Usage of the Yealink Manager API.
 ## Getting Started
 
 ```python
+    from yealink_manager import YealinkController
     import time
     # Program parameters
     username = 'admin'
